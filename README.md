@@ -4,4 +4,5 @@
 
  # Installation
 Extract the .rar file
+
 Double CLick on Valx.exe And Open VALORANT!
