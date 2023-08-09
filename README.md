@@ -4,5 +4,12 @@
 
  # Installation
 
-#### Extract the .rar file
-#### Double CLick on Valx.exe And Open VALORANT!
+* Extract the .rar file
+* Double CLick on Valx.exe And Open VALORANT!
+
+ # Compability
+
+* Windows 10 (any)
+* Windows 11 (any)
+* Any GPU
+* Last version of Windows Update
